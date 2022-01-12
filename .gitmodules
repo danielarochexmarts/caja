@@ -12,3 +12,8 @@
 	path = xmarts/multi-branch
 	url = git@github.com:xmarts/multi-branch.git
 	branch = 14.0
+
+[submodule "xmarts/portal_maintenance"]
+	path = xmarts/portal_maintenance
+	url = git@github.com:xmarts/portal_maintenance.git
+	branch = 14.0
