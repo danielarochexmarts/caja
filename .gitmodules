@@ -1,0 +1,4 @@
+[submodule "xmarts/material_purchase_requisitions"]
+	path = xmarts/material_purchase_requisitions
+	url = git@github.com:xmarts/material_purchase_requisitions.git
+	branch = 14.0
