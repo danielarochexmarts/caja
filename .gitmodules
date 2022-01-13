@@ -2,3 +2,8 @@
 	path = xmarts/xmarts_e_learning
 	url = git@github.com:xmarts/xmarts_e_learning.git
 	branch = 14.0
+
+[submodule "xmarts/multi-branch"]
+	path = xmarts/multi-branch
+	url = git@github.com:xmarts/multi-branch.git
+	branch = 14.0
